@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Xinqi Fan. 👋
 - 🔭 I’m currently working on deep learning, multimodal learning, affective computing, and medical image analysis.
 
 <!--
